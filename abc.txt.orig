@@ -1,0 +1,10 @@
+I am a new file.
+I have new content.
+I am a testing file.
+I am modified as part of branch testing.
+new line for some more testing.:wq
+<<<<<<< HEAD
+conflicting data
+=======
+some more content
+>>>>>>> newbch
