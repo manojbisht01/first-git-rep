@@ -1,2 +1,6 @@
 11223344
+<<<<<<< HEAD
 new branch related changes
+=======
+another change
+>>>>>>> secondaryBranch
